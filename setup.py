@@ -7,7 +7,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/<username>/<package-name>',
-    author='<Your Name>',
-    author_email='<Your Email>'
+    url='https://github.com/noahac100/mypackage.git',
+    author='Femi Ojo',
+    author_email='Noahacfm@gmail.com'
 )
